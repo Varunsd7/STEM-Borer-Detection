@@ -46,24 +46,6 @@ The system can also control a light trap through a relay module.
 - **IoT Platform:** Telegram Bot API
 - **Development Environment:** Arduino IDE
 
-## Repository Structure
-
-```text
-STEM-Borer-Detection/
-├── README.md
-├── firmware/
-│   └── esp32_code.ino
-├── sensors/
-│   ├── KY037.md
-│   └── DHT22.md
-├── telegram_bot/
-│   └── bot_code.py
-├── circuit_diagrams/
-├── images/
-├── documentation/
-└── LICENSE
-```
-
 ## Installation and Setup
 
 1. Install Arduino IDE.
