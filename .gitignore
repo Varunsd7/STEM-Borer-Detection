@@ -1,0 +1,19 @@
+# Arduino build/editor files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+build/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local secrets / configuration backups
+secrets.h
+config.local.h
+.env
